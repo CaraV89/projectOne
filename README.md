@@ -9,6 +9,7 @@ Create a _single page_ personal site.
 #### Requirements
 - Personal Image
 - "About Me" Description
+    I am  a  senior at EWU and will hopefully gradute in the Spring of 2017. 
 - Tell me about your goals and aspirations. 
 - The cover of your favorite book, linked to it's Amazon page. Provide a description of why its your favorite book. 
 - Top 3 favorite meals with an image and brief description for each. 
