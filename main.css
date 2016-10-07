@@ -1,6 +1,6 @@
 h1 {
   color: teal;
-  font-size: 4em;
+  font-size: 6em;
   text-align: center;
 }
 
@@ -13,22 +13,17 @@ p {
 img {
   width: 300px;
   position: relative;
-    left: 36%;
-}
-
-img.galleryimage {
-  width: 300px;
-}
-
-li {
-  font-size: 2em;
-  color: teal;
-  position: relative;
-    left: 43%;
+    left: 50%;
 }
 
 h2 {
   color: teal;
-  font-size: 2em;
+  font-size: 4em;
+  text-align: center;    
+}
+
+.About Me { 
+  color: teal;
+  font-size: 5em;
   text-align: center;
 }
