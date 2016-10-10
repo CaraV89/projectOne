@@ -1,0 +1,43 @@
+.Self { 
+ width: 400px;
+ border-radius: 30px;
+}
+
+h1 {
+  color: whitesmoke;
+  font-size: 5em;
+  text-align: center;
+ 
+}
+
+p {
+  color: lightgray;
+  font-size: 2em;
+  text-align: center;
+  
+}
+
+img {
+  width: 300px;
+  position: relative;
+    left: 50%;
+  border-radius: 30px;
+}
+
+h2 {
+  color: aquamarine;
+  font-size: 2em;
+  text-align: center;    
+}
+
+.Food {
+    width: 300px;
+}
+
+h3 {
+  color: white;
+  font-size: 2em;
+  text-align: center;    
+}
+
+
